@@ -11,34 +11,34 @@ redirect_from:
 
 Education
 ======
-* M.S. in Artificial Intelligence (Multi-Agent Systems), 2021
-* B.E. in Mechanical Engineering, Vishveswaraya Technological University, India, 2016
+* M.S. in Artificial Intelligence (Multi-Agent Systems), University of Groningen, Netherlands, _2021_
+* B.E. in Mechanical Engineering, Vishveswaraya Technological University, India, _2016_
 
 
 Teaching experience
 ======
-* Teaching Assistant - Multi-Agent Systems |  April 2020 - July 2020
+* Teaching Assistant - Multi-Agent Systems : _April 2020 - July 2020_
   * University of Groningen
   * Assisted with tutorial sessions and assignment grading
 
-* Teaching Assistant - Deep Learning |  February 2020 - April 2020
+* Teaching Assistant - Deep Learning : _February 2020 - April 2020_
   * University of Groningen
   * Assisted with Deep Learning practical and report grading.
 
 
 Work experience
 ======
-* Consultant II - Data  Analytics |  July 2018 - November 2018
+* Consultant II - Data  Analytics : _July 2018 - November 2018_
   * Neudesic LLC, India
   * Data warehousing, Data Analytics, Reporting
   * Machine Learning and Deep Learning solutions
 
-* Consultant I - Data Analytics | July 2017 - June 2018
+* Consultant I - Data Analytics : _July 2017 - June 2018_
   * Neudesic LLC, India
   * Data warehousing, Data Analytics, Reporting
   * Machine Learning and Deep Learning - Proof of Concepts
 
-* Associate Consultant | June 2016 - June 2017
+* Associate Consultant : _June 2016 - June 2017_
   * Neudesic LLC, India
   * Website building and maintenance
   * Console Applications and Automation

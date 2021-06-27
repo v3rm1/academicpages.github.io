@@ -14,13 +14,13 @@ The preprocessing folder contains converters to convert midi files to pitch list
 * It also has a converter for converting midi files to characters and can convert text back to midi.
 
 The Simple Bigram folder contains the baseline bigram model. 
-* Run simple_bigram.py to generate music using bigram model. 
-* The txt_to_midi.py converts pitch text file to .midi file. 
+* Run `simple_bigram.py` to generate music using bigram model. 
+* The `txt_to_midi.py` converts pitch text file to .midi file. 
 
-* The DataScraping.ipynb script downloads midi files from a particular website. 
-* CharNN.ipynb is the character level implementation of LSTM which trains on text characters converted from midi file.
+* The `DataScraping.ipynb` script downloads midi files from a particular website. 
+* `CharNN.ipynb` is the character level implementation of LSTM which trains on text characters converted from midi file.
 
-You can listen to the generated output by playing bigram_output.mid.
+You can listen to the generated output by playing `bigram_output.mid`.
 
  
 If you want the trained embedding vectors you can get them [here](https://drive.google.com/file/d/1e3WbMZCvxr_OeTqtFZiuXrGYJqrGExqv/view?usp=sharing).

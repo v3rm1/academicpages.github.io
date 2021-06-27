@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning: Completing the Unfinished Bach Fugue"
-excerpt: "Project work for the Machine Learning course offered under the MSc AI program at the University of Groningen<br/><img src='/images/portfolio_imgs/ml_music.jpg'><br>"
+title: "<img src='/images/portfolio_imgs/ml_music.jpg' width='25' height='25'>&nbsp;Machine Learning: Completing the Unfinished Bach Fugue"
+excerpt: "Project work for the Machine Learning course offered under the MSc AI program at the University of Groningen"
 collection: portfolio
 ---
 ---

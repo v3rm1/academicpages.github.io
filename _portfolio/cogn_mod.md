@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/portfolio_imgs/cogn_mod_basics.jpg' width='25' height='25'>&nbsp;Cognitive Modelling: Basic Principles and Methods"
+title: "Cognitive Modelling: Basic Principles and Methods"
 excerpt: "Assignments and Project work for the Cognitive Modelling course offered under the MSc AI program at the University of Groningen"
 collection: portfolio
 ---

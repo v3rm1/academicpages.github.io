@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download pdf]({{ site.baseurl }}/assets/content/VRVarma_Academic_CV.pdf)
 
 Education
 ======
@@ -17,29 +18,26 @@ Education
 
 Teaching experience
 ======
+**University of Groningen**
 * Teaching Assistant - Multi-Agent Systems : _April 2020 - July 2020_
-  * University of Groningen
   * Assisted with tutorial sessions and assignment grading
 
 * Teaching Assistant - Deep Learning : _February 2020 - April 2020_
-  * University of Groningen
   * Assisted with Deep Learning practical and report grading.
 
 
 Work experience
 ======
+**Neudesic LLC, India**
 * Consultant II - Data  Analytics : _July 2018 - November 2018_
-  * Neudesic LLC, India
   * Data warehousing, Data Analytics, Reporting
   * Machine Learning and Deep Learning solutions
 
 * Consultant I - Data Analytics : _July 2017 - June 2018_
-  * Neudesic LLC, India
   * Data warehousing, Data Analytics, Reporting
   * Machine Learning and Deep Learning - Proof of Concepts
 
 * Associate Consultant : _June 2016 - June 2017_
-  * Neudesic LLC, India
   * Website building and maintenance
   * Console Applications and Automation
   

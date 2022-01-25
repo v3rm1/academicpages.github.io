@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download pdf]({{ site.baseurl }}/assets/content/VRVarma_Academic_CV.pdf)
+[Download pdf]({{ site.baseurl }}/files/cv/VRVarma_Academic_CV.pdf)
 
 Education
 ======
